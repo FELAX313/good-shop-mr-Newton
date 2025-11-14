@@ -25,27 +25,27 @@ setTimeout(() => {
 // Can also swithc products at intervals. 
 
 let product_1 = document.createElement('img');
-product_1.src='./assets/product_1.jpg'
+product_1.src='product_1.jpg'
 document.getElementById('container_1').appendChild(product_1);
 
 let product_2= document.createElement('img');
-product_2.src='./assets/product_2.jpg'
+product_2.src='product_2.jpg'
 document.getElementById('container_2').appendChild(product_2);
 
 let product_3= document.createElement('img');
-product_3.src='./assets/product_3.jpg'
+product_3.src='product_3.jpg'
 document.getElementById('container_3').appendChild(product_3);
 
 let product_4= document.createElement('img');
-product_4.src='./assets/product_4.jpg'
+product_4.src='product_4.jpg'
 document.getElementById('container_4').appendChild(product_4);
 
 let product_5= document.createElement('img');
-product_5.src='./assets/product_5.jpg'
+product_5.src='product_5.jpg'
 document.getElementById('container_5').appendChild(product_5);
 
 let product_6= document.createElement('img');
-product_6.src='./assets/product_6.jpg'
+product_6.src='product_6.jpg'
 document.getElementById('container_6').appendChild(product_6);
 
 // Add a new product (rocket) purely via JavaScript so no HTML changes are required.
